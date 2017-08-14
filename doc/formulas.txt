@@ -1,0 +1,4 @@
+Formulas to calculate Health and genetic perks from physical perks.
+
+Strentgh = 
+0.4 * 1 * (x*speed) + 
